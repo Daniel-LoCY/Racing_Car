@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{DBF7C943-42C6-0143-7BB1-6774D9E0F977}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameManager.cs">
+    <Files>
+      <File FileName="Assets/GameManager.cs" Line="31" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Racing_Car" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GameManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8d4bde09-ac88-4e45-99de-2cedd60888bb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
