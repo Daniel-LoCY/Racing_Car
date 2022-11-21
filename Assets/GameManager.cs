@@ -13,7 +13,7 @@ public class GameManager : MonoBehaviour
     private float turnAngle = 1f;
     [SerializeField] Button pauseBtn;
     private bool isPause = false;
-
+//ooo
     private void Start()
     {
         pauseBtn.onClick.AddListener(() =>
